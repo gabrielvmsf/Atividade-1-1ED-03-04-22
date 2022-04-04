@@ -1,3 +1,5 @@
+package Teste1;
+
 public class Teste {
     public static void main(String[] args) throws Exception {
         System.out.println("raiz: raiz(64)");
